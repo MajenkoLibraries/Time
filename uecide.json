@@ -5,6 +5,7 @@
     "readme" : "Readme.md",
     "category": "Time",
     "subcategory": "RTC",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
     "version": "1.5",
     "family": "all",
     "core": "all",
